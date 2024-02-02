@@ -114,7 +114,6 @@ const Navigate = () => {
                         // tabBarBackground:() =>(
                         //     <LinearGradient  colors={['rgba(38, 36, 80, 0.85)',  'rgba(25, 23, 61, 1)']} style={{height:100,}}/>
                         //   )
-
                     }}
                 >
                     <Tab.Screen
